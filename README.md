@@ -20,7 +20,7 @@ The tidyverse is an opinionated collection of R packages that share a similar de
 | Available from:   | March 28, 2022, 12:00 am   |
 | Until:            |                            |
 
-1.  Open the [assignment URL](https://classroom.github.com/a/8DoUa_KP)
+1.  Open the [assignment URL](https://classroom.github.com/a/iXt7PRdY)
 2.  Accept the assignment.
 3.  Open the newly created repository. It will be named `week-03-assignment-<YOUR GITHUB USERNAME>`.
 4.  Clone the repository to your local machine.
